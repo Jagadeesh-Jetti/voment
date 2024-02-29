@@ -1,0 +1,49 @@
+.event-detail {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .event-detail h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .event-detail p {
+    margin: 10px 0;
+  }
+  
+  .event-detail .roles {
+    margin-top: 10px;
+  }
+  
+  .event-detail button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin-top: 15px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .event-detail button:hover {
+    background-color: #2980b9;
+  }
+  
+  .event-detail a {
+    text-decoration: none;
+    color: #f1f4f6;
+  }
+  
+  .event-detail a:hover {
+    text-decoration: underline;
+  }
+  
